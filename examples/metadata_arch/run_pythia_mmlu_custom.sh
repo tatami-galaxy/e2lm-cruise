@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OUTPUT_DIR="./results/"
+OUTPUT_DIR="./custom_data_selection_results/results/"
 BATCH_SIZE="8"
 
 for ARGUMENT in "$@"
