@@ -13,12 +13,12 @@
 - Learning curves : [Metadata Archeology](https://arxiv.org/abs/2209.10015)
 
 
-## Early Training Dynamics
+### Early Training Dynamics
 
 - [Hidden Capabilities](https://arxiv.org/abs/2406.19370), [Hidden Breakthroughs](https://arxiv.org/abs/2506.15872)
 
 
-## TODO
+### TODO
 
 - TII models on [Custom MMLU](https://huggingface.co/datasets/Ujan/mmlu_gpt4o)
 - Fewshot
